@@ -165,3 +165,4 @@ cython_debug/
 Week_1/MNIST/data
 Week_1/NTC-SCV/data
 Week_1/Cassava_Leaf_Disease/cassavaleafdata
+Week_2/ResNet/Weather_Classification/weather-dataset
